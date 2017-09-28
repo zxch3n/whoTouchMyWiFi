@@ -1,0 +1,171 @@
+00:90:27	Intel Corporation
+a8:66:7f	Apple, Inc.
+2c:1f:23	Apple, Inc.
+80:13:82	HUAWEI TECHNOLOGIES CO.,LTD
+c4:d9:87	Intel Corporate
+5c:ff:35	Wistron Neweb Corporation
+28:6c:07	XIAOMI Electronics,CO.,LTD
+80:ea:96	Apple, Inc.
+7c:11:cb	HUAWEI TECHNOLOGIES CO.,LTD
+34:96:72	Null
+48:d7:05	Apple, Inc.
+d4:ee:07	HIWIFI Co., Ltd.
+38:bc:1a	MEIZU Technology Co., Ltd.
+24:e3:14	Apple, Inc.
+78:11:dc	Null
+78:7b:8a	Null
+98:01:a7	Apple, Inc.
+f4:5c:89	Apple, Inc.
+14:cf:92	TP-LINK TECHNOLOGIES CO.,LTD.
+0c:d6:bd	HUAWEI TECHNOLOGIES CO.,LTD
+d0:e1:40	Apple, Inc.
+84:b1:53	Apple, Inc.
+90:8d:6c	Apple, Inc.
+b8:f8:83	Null
+fc:d7:33	TP-LINK TECHNOLOGIES CO.,LTD.
+70:3e:ac	Apple, Inc.
+b0:48:1a	Null
+d8:57:ef	Samsung Electronics Co.,Ltd
+b0:e5:ed	Null
+6c:72:e7	Apple, Inc.
+94:65:9c	Intel Corporate
+b4:9c:df	Null
+34:ab:37	Apple, Inc.
+94:8b:c1	Null
+70:70:0d	Null
+9c:fc:01	Apple, Inc.
+e0:b5:2d	Apple, Inc.
+18:cf:5e	Liteon Technology Corporation
+4c:74:bf	Null
+4c:57:ca	Apple, Inc.
+20:ee:28	Null
+68:3e:34	MEIZU Technology Co., Ltd.
+34:c0:59	Apple, Inc.
+8c:3a:e3	LG Electronics (Mobile Communications)
+1c:5c:f2	Apple, Inc.
+00:00:00	XEROX CORPORATION
+84:89:ad	Apple, Inc.
+ec:01:ee	Null
+5c:96:9d	Apple, Inc.
+f0:1d:bc	Null
+54:26:96	Apple, Inc.
+70:ec:e4	Apple, Inc.
+10:41:7f	Apple, Inc.
+4c:3c:16	Samsung Electronics Co.,Ltd
+c8:f2:30	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+48:e9:f1	Apple, Inc.
+7c:04:d0	Null
+d0:03:4b	Apple, Inc.
+00:9a:cd	HUAWEI TECHNOLOGIES CO.,LTD
+a4:5e:60	Apple, Inc.
+ec:df:3a	vivo Mobile Communication Co., Ltd.
+24:5b:a7	Null
+4c:49:e3	Null
+cc:08:8d	Null
+54:25:ea	Null
+ac:c1:ee	Null
+f0:79:60	Null
+54:14:73	 Wingtech Group (HongKongï¼Limited
+20:ab:37	Null
+28:a0:2b	Apple, Inc.
+ac:bc:32	Apple, Inc.
+34:68:95	Hon Hai Precision Ind. Co.,Ltd.
+6c:c2:6b	Apple, Inc.
+e8:2a:ea	Intel Corporate
+18:f6:43	Apple, Inc.
+80:c5:e6	Microsoft Corporation
+78:d7:5f	Apple, Inc.
+34:69:87	zte corporation
+34:80:b3	Xiaomi Communications Co Ltd
+80:e6:50	Apple, Inc.
+c0:14:3d	Hon Hai Precision Ind. Co.,Ltd.
+f0:f6:1c	Apple, Inc.
+f8:62:14	Null
+50:04:b8	Null
+b8:57:d8	Samsung Electronics Co.,Ltd
+dc:74:a8	Null
+60:e7:01	HUAWEI TECHNOLOGIES CO.,LTD
+54:ae:27	Apple, Inc.
+5c:ad:cf	Apple, Inc.
+14:bd:61	Null
+60:57:18	Intel Corporate
+40:33:1a	Apple, Inc.
+50:32:37	Null
+00:b3:62	Null
+e8:b2:ac	Apple, Inc.
+d0:ff:98	Null
+70:14:a6	Apple, Inc.
+dc:a4:ca	Null
+90:b6:86	Murata Manufacturing Co., Ltd.
+74:23:44	Xiaomi Communications Co Ltd
+cc:fa:00	LG Electronics (Mobile Communications)
+00:ec:0a	Null
+64:cc:2e	Xiaomi Communications Co Ltd
+b0:89:00	HUAWEI TECHNOLOGIES CO.,LTD
+f4:8b:32	Xiaomi Communications Co Ltd
+88:28:b3	HUAWEI TECHNOLOGIES CO.,LTD
+50:01:d9	Null
+cc:2d:83	Null
+70:e7:2c	Apple, Inc.
+20:82:c0	Xiaomi Communications Co Ltd
+58:1f:28	HUAWEI TECHNOLOGIES CO.,LTD
+14:5f:94	Null
+fc:25:3f	Apple, Inc.
+40:40:a7	Sony Mobile Communications AB
+d8:fc:93	Intel Corporate
+78:88:6d	Null
+2c:f0:a2	Apple, Inc.
+2c:20:0b	Null
+40:88:e0	Beijing Ereneben Information Technology Limited Shenzhen Branch
+9c:ad:97	Hon Hai Precision Ind. Co.,Ltd.
+4c:32:75	Null
+14:99:e2	Apple, Inc.
+bc:75:74	HUAWEI TECHNOLOGIES CO.,LTD
+e0:b9:a5	AzureWave Technology Inc.
+60:83:34	HUAWEI TECHNOLOGIES CO.,LTD
+34:e6:d7	Dell Inc.
+50:8f:4c	Null
+7c:67:a2	Null
+b8:4f:d5	Microsoft Corporation
+cc:44:63	Apple, Inc.
+0c:1d:af	Xiaomi Communications Co Ltd
+bc:9f:ef	Null
+e8:50:8b	SAMSUNG ELECTRO-MECHANICS(THAILAND)
+ec:5a:86	Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
+dc:41:5f	Apple, Inc.
+c0:ee:fb	OnePlus Tech (Shenzhen) Ltd
+48:d2:24	Liteon Technology Corporation
+4c:18:9a	Null
+4c:a5:6d	Samsung Electronics Co.,Ltd
+9c:35:eb	Apple, Inc.
+90:cd:b6	Hon Hai Precision Ind. Co.,Ltd.
+2c:d0:5a	Liteon Technology Corporation
+74:29:af	Hon Hai Precision Ind. Co.,Ltd.
+84:41:67	Null
+7c:c7:09	SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+78:7e:61	Apple, Inc.
+9c:fb:d5	Null
+00:0e:c6	ASIX ELECTRONICS CORP.
+a8:5b:78	Apple, Inc.
+e0:ac:cb	Apple, Inc.
+c8:f6:50	Apple, Inc.
+0c:d7:46	Apple, Inc.
+60:f8:1d	Apple, Inc.
+ec:d0:9f	Null
+ac:b5:7d	Liteon Technology Corporation
+04:b1:67	Null
+30:3a:64	Intel Corporate
+48:5a:b6	Null
+70:8a:09	Null
+d4:40:f0	HUAWEI TECHNOLOGIES CO.,LTD
+40:b8:9a	Hon Hai Precision Ind. Co.,Ltd.
+b8:08:d7	HUAWEI TECHNOLOGIES CO.,LTD
+80:00:0b	Intel Corporate
+a4:08:ea	Murata Manufacturing Co., Ltd.
+84:9f:b5	HUAWEI TECHNOLOGIES CO.,LTD
+6c:19:c0	Null
+c0:9f:05	Null
+38:a4:ed	Null
+64:b0:a6	Null
+8c:85:90	Null
+64:b5:c6	Null
